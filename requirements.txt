@@ -1,0 +1,5 @@
+speechbrain
+torchaudio
+openai-whisper
+fastapi
+uvicorn
