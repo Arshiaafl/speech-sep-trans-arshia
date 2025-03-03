@@ -3,3 +3,4 @@ torchaudio
 openai-whisper
 fastapi
 uvicorn
+python-multipart
